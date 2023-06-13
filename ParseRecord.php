@@ -9,10 +9,10 @@
 <body>
     <h1> Parsed Data Record </h1>
     <?php
-    $servername = "mars.cs.qc.cuny.edu";
-    $username = "hare4344";
-    $password = "23874344";
-    $dbname = "hare4344";
+    $servername = "";
+    $username = "";
+    $password = "";
+    $dbname = "";
 
     // create connection
     $conn = new mysqli($servername, $username, $password, $dbname);
